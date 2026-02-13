@@ -47,6 +47,4 @@ This analysis provides insights into Netflix’s content growth strategy and dis
 ## Project Files
 - `Netflix_EDA.ipynb` → Full analysis notebook  
 - `netflix_titles.csv` → Dataset used  
-- `README.md` → Project documentation  
-- `netflix_titles.csv` → Dataset used  
-- `README.md` → Project documentation  
+- `README.md` → Project documentation    
